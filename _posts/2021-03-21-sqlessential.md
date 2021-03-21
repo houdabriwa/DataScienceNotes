@@ -3,7 +3,7 @@ layout: post
 title: SQL Essential
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/biblio.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/biblio.jpg
 share-img: /assets/img/biblio.jpg
 tags: [SQL, Data Structure]
 ---
