@@ -2,7 +2,7 @@
 layout: post
 title: Sample blog post
 subtitle: Each post also has a subtitle
-cover-img: /assets/img/biblio.jpg
+cover-img: /assets/img/path.jpg
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
