@@ -14,11 +14,11 @@ author: Houda Briwa
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://houdabriwa.github.io/home/"
+  About Me: "https://houdabriwa.github.io/home/"
 
 # --- Logo --- #
 
