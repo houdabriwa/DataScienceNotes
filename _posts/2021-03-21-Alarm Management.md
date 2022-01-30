@@ -80,6 +80,11 @@ This standard was written as an extension of the existing ISA 18.2-2009 standard
 
 ### Alarm System Lifecycle
 
+The lifecycle of an alarm is system as presented in the ISA 18.2 Standard is as follow:
+<img width="495" align="center" alt="image" src="https://user-images.githubusercontent.com/43297808/151704192-8238dd10-2cfa-4dc7-9197-4735b8198595.png">
+
+[image source] (https://www.isa.org/intech-home/2018/march-april/features/alarm-management-life-cycle)
+
 
 # Alarm Rationalization
 
