@@ -8,16 +8,16 @@ tags: [Alarm Management]
 comments: true
 ---
 # Introduction to Alarm Management
-## Background
+### Background
 
 Prior to the era of distributed control systems (DCS), creating an alarm was manual, time consuming and expensive. A process control system had few dozen alarms that an operator to easily monitor and act upon each one immediately.
 
 The introduction of distributed control systems (DCS) changed the traditional alarm systems. It becomes so easy to add new alarms for instruments linked to a DCS, leading to an alarm overload on the operating console of the DCS. Operators are overloaded with hundred of alarms that may not be relevant and where in the event of a serious incident, can cause an alarm flooding (interfering with the operator’s ability to understand and respond correctly to the situation).
 
-## What is an Alarm system?
+### What is an Alarm system?
 An Alarm system is a system designed to help the operator by drawing his attention towards plant conditions requiring timely assessment or action.
 
-## Why is Alarm management Important?
+### Why is Alarm management Important?
 
 Alarm management refers to the processes and practices for determining, documenting, designing, monitoring, and maintaining alarm messages from process automation and safety systems.
 
@@ -34,7 +34,7 @@ The top 4 major accidents in the history are:
 
 • Buncefield Oil Storage - 2005
 
-## Guideline, Regulations and Standards
+### Guideline, Regulations and Standards
 
 A distinguishing between Guideline and Standard/Or Regulation shall be etablished beforehand. 
 
@@ -58,12 +58,12 @@ This standard was written as an extension of the existing ISA 18.2-2009 standard
 
 3. **Technical Report**
 
-ISA-TR18.2.5-2012 (help understand and use ANSI/ISA 18.2  / also an excellent resource for interpreting alarm metrics and common causes.)
+**ISA-TR18.2.5-2012** (helps understand and use ANSI/ISA 18.2  / also an excellent resource for interpreting alarm metrics and common causes.)
 
 
-## Design of Alarm Management system
+# Design of Alarm Management system
 
-1. **Core Principles**
+### Core Principles
 
 - Usability
 - Safety
@@ -71,17 +71,17 @@ ISA-TR18.2.5-2012 (help understand and use ANSI/ISA 18.2  / also an excellent re
 - Investment in engineering
 
 
-3. **What's a good Alarm?**
+### What's a good Alarm ?
 
 - Each alarm should alert, inform and guide.
 - Every alarm should be relevant to the operator.
 - Every alarm should have a defined response.
 - Alarms shall be designed in a way that allows the operator a sufficient time to carry out a defined response (taking into account the human limitation).
 
-4. **Alarm System Lifecycle** 
+### Alarm System Lifecycle
 
 
-## Alarm Rationalization
+# Alarm Rationalization
 
-## Alarm Issues
+# Alarm Issues
 
