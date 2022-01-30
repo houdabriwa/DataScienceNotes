@@ -34,21 +34,54 @@ The top 4 major accidents in the history are:
 
 • Buncefield Oil Storage - 2005
 
-## Guide, Regulations and Standards
+## Guideline, Regulations and Standards
+
+A distinguishing between Guideline and Standard/Or Regulation shall be etablished beforehand. 
+
+A standard specifies uniform uses of specific technologies or configurations, while a guideline provides general guidance, and additional advice and support for policies, standards or procedures. Below are the main guideline and standards used for Alarm management.
 
 1. **Guideline**
 
-EEMUA 191 - Alarm Systems - A Guide to Design, Management and Procurement published by the Engineering Equipment and Material Users Association (EEMUA).
+**EEMUA 191 - Alarm Systems - A Guide to Design, Management and Procurement published by the Engineering Equipment and Material Users Association (EEMUA).**
+
+It is primarily concerned with alarm systems provided for people operating industrial processes. These include alarm systems in industries such as chemical manufacture, power generation, oil and gas extraction and refining and others.
 
 2. **Standards**
 
-ANSI/ISA 18.2 Management of Alarm Systems in the Process Industries published by the international society of automation (ISA)
-IEC 62682 Management of Alarm Systems in the Process Industries
-(based on ANSI/ISA 18.2 )
+**ANSI/ISA 18.2 Management of Alarm Systems in the Process Industries published by the international society of automation (ISA).**
+
+This standard specifies general principles and processes for the lifecycle management of alarm systems based on programmable electronic controller and computer-based human-machine interface (HMI) technology for facilities in the process industries. It covers all alarms presented to the operator through the control system, which includes alarms from basic process control systems, annunciator panels, packaged systems (e.g., fire and gas systems, and emergency response systems), and safety instrumented systems.
+
+**IEC 62682 Management of Alarm Systems in the Process Industries** (based on ANSI/ISA 18.2 )
+
+This standard was written as an extension of the existing ISA 18.2-2009 standard which utilized numerous industry alarm management guidance documents in its development such as EEMUA 191.
 
 3. **Technical Report**
 
 ISA-TR18.2.5-2012 (help understand and use ANSI/ISA 18.2  / also an excellent resource for interpreting alarm metrics and common causes.)
 
 
+## Design of Alarm Management system
+
+1. **Core Principles**
+
+- Usability
+- Safety
+- Performance monitoring
+- Investment in engineering
+
+
+3. **What's a good Alarm?**
+
+- Each alarm should alert, inform and guide.
+- Every alarm should be relevant to the operator.
+- Every alarm should have a defined response.
+- Alarms shall be designed in a way that allows the operator a sufficient time to carry out a defined response (taking into account the human limitation).
+
+4. **Alarm System Lifecycle** 
+
+
+## Alarm Rationalization
+
+## Alarm Issues
 
