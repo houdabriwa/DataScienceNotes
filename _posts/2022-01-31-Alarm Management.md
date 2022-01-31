@@ -65,10 +65,10 @@ This standard was written as an extension of the existing ISA 18.2-2009 standard
 
 ### Core Principles
 
-- Usability
-- Safety
-- Performance monitoring
-- Investment in engineering
+- **Usability :** It ensures that the design of the alarm system can adapt to the needs of the user and operate within the constraints of the user
+- **Safety :** EEMUA 191 states that "the contribution of alarm system to protecting the safety of people, the environment, and plant equipment should be clearly identified".
+- **Performance monitoring :** According to the EEMUA Guideline, the performance of the alarm system should be assessed during design and commissioning to ensure that it is usable and effective under all operating conditions.
+- **Investment in engineering :** EEMUA states that alarm systems should be engineered to suitably high standards in a structured methodology
 
 
 ### What's a good Alarm ?
@@ -80,13 +80,22 @@ This standard was written as an extension of the existing ISA 18.2-2009 standard
 
 ### Alarm System Lifecycle
 
-The lifecycle of an alarm is system as presented in the ISA 18.2 Standard is as follow:
+The lifecycle of an alarm is system as presented in the ISA 18.2 Standard is as below and it covers the alarm system from its specification through design to operation and finally to its eventual decommissioning :
 <img width="495" align="center" alt="image" src="https://user-images.githubusercontent.com/43297808/151704192-8238dd10-2cfa-4dc7-9197-4735b8198595.png">
 
 [image source] (https://www.isa.org/intech-home/2018/march-april/features/alarm-management-life-cycle)
 
+1. **Philosophy/Company Standard**
 
-# Alarm Rationalization
+The Alarm management philosophy document (the company’s standard) establishes the guidelines for how to address all aspects of alarm management, and include (but not limited to):
+
+- Definition of what an alarm should be
+- Definitions of alarm system performance targets
+- Dictionary of terms and abbreviations to be used in alarm messages
+- Guidance on content and structure of alarm response definitions (e.g. procedures, task aids, etc.)
+- Guidance on interpreting patterns of alarms
+
+2. **Alarm Rationalization**
 
 # Alarm Issues
 
