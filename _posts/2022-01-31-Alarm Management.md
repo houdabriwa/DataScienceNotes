@@ -95,7 +95,32 @@ The Alarm management philosophy document (the company’s standard) establishes 
 - Guidance on content and structure of alarm response definitions (e.g. procedures, task aids, etc.)
 - Guidance on interpreting patterns of alarms
 
-2. **Alarm Rationalization**
+2. **Alarm Rationalisation**
+
+Alarm rationalization is a key stage in the alarm management lifecycle defined in ISA-18.2. It's goal is to establish the optimum set of alarms needed to keep the process safe and within normal operating limits. The alarm rationalisation is a process where team of plant stakeholders review, establish, and document that each alarm meets the standard for being an alarm as set up in a company’s alarm philosophy documents.
+This assessment of alarms is done by examining the actual alarm system configuration and detailed analysis of alarm history and requires the follow information: 
+
+**Alarm configuration**
+- Alarm priorities.
+- Alarm thresholds.
+- Alarm messages.
+
+**Alarm history**
+- Basic alarm rates.
+- Identification of most frequent alarms.
+- Multiple alarms.
+- Standing alarms.
+- Location of plant incidents.
+
+**Historical data (digital and analogue)**
+- Identification of the cause.
+- Indication of what changes could be made.
+
+**System capability**
+- Alarm displays.
+- Alarm priorities.
+- Audible alarm sounders and outputs.
+- Alarm inhibiting and hiding.
 
 # Alarm Issues
 
